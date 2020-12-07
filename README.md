@@ -54,7 +54,9 @@ c. Avoid memory leaks and segmentation faults. Don't allocate memory where not r
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 Download as zip. Then unzip. Then,
-To compile: `make`. To run: `./shl`, to check for memory leaks (runs it with valgrind): `make leaks`
+- To compile: `make`. 
+- To run: `./shl`, 
+- To check for memory leaks (runs it with valgrind): `make leaks`
 
 
 ### Prerequisites
